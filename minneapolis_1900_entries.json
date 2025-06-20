@@ -1,0 +1,222 @@
+[
+  {
+    "FirstName": "John",
+    "LastName": "Aaram",
+    "Spouse": null,
+    "Occupation": "Laborer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2430",
+      "StreetName": "n 4th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": []
+  },
+  {
+    "FirstName": "Bernhardt A",
+    "LastName": "Aargaard",
+    "Spouse": null,
+    "Occupation": "Compositor",
+    "CompanyName": "Mpls Tidende",
+    "HomeAddress": {
+      "StreetNumber": "2406",
+      "StreetName": "Riverside av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": [
+      {
+        "Name": "Bernhart J",
+        "Relation": "Possible family",
+        "Occupation": "Clerk",
+        "CompanyName": "Brown Bros Mer Co",
+        "Residence": {
+          "StreetNumber": "2406",
+          "StreetName": "Riverside av",
+          "ResidenceIndicator": "b"
+        }
+      }
+    ]
+  },
+  {
+    "FirstName": "C Adolph",
+    "LastName": "Aarness",
+    "Spouse": null,
+    "Occupation": "Student",
+    "CompanyName": "U of M",
+    "HomeAddress": {
+      "StreetNumber": "519",
+      "StreetName": "16th av s e",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": []
+  },
+  {
+    "FirstName": "Charles J",
+    "LastName": "Aaronson",
+    "Spouse": null,
+    "Occupation": "Laborer",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "521",
+      "StreetName": "12th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": []
+  },
+  {
+    "FirstName": "Rey K",
+    "LastName": "Aarseth",
+    "Spouse": null,
+    "Occupation": "Stage Mechanic",
+    "CompanyName": "Metropolitan Theatre",
+    "HomeAddress": {
+      "StreetNumber": "26",
+      "StreetName": "s 6th",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "rms"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": []
+  },
+  {
+    "FirstName": "John A",
+    "LastName": "Aarvold",
+    "Spouse": null,
+    "Occupation": "Laborer",
+    "CompanyName": "C M & St P Ry shops",
+    "HomeAddress": {
+      "StreetNumber": "3232",
+      "StreetName": "Longfellow av",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": [
+      {
+        "Name": "Gina",
+        "Relation": "Possible spouse or family",
+        "Occupation": "Ironer",
+        "CompanyName": "Franklin Steam Laundry",
+        "Residence": {
+          "StreetNumber": "1927",
+          "StreetName": "14th av s",
+          "ResidenceIndicator": "b"
+        }
+      }
+    ]
+  },
+  {
+    "FirstName": "Elling J",
+    "LastName": "Aase",
+    "Spouse": null,
+    "Occupation": "Tailor",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "2200",
+      "StreetName": "s 7\u00bd",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "r"
+    },
+    "WorkAddress": {
+      "StreetNumber": "103",
+      "StreetName": "s 5th"
+    },
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": [
+      {
+        "Name": "George",
+        "Relation": "Possible family",
+        "Occupation": "Nurse",
+        "CompanyName": null,
+        "Residence": {
+          "StreetNumber": "2200",
+          "StreetName": "s 7\u00bd",
+          "ResidenceIndicator": "b"
+        }
+      }
+    ]
+  },
+  {
+    "FirstName": "Alfred",
+    "LastName": "Aasen",
+    "Spouse": null,
+    "Occupation": "Painter",
+    "CompanyName": null,
+    "HomeAddress": {
+      "StreetNumber": "3200",
+      "StreetName": "19th av s",
+      "ApartmentOrUnit": null,
+      "ResidenceIndicator": "b"
+    },
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": [
+      {
+        "Name": "Anne",
+        "Relation": "Widow of Christian",
+        "Occupation": null,
+        "CompanyName": null,
+        "Residence": {
+          "StreetNumber": "3200",
+          "StreetName": "19th av s",
+          "ResidenceIndicator": "r"
+        }
+      }
+    ]
+  },
+  {
+    "FirstName": "John O",
+    "LastName": "Aasen",
+    "Spouse": null,
+    "Occupation": "Student",
+    "CompanyName": "Augsburg Sem",
+    "HomeAddress": null,
+    "WorkAddress": null,
+    "Telephone": null,
+    "DirectoryName": "Minneapolis 1900",
+    "PageNumber": 30,
+    "RelatedPersons": [
+      {
+        "Name": "Olaus A",
+        "Relation": "Possible family",
+        "Occupation": "Student",
+        "CompanyName": "Augsburg Sem",
+        "Residence": {
+          "StreetNumber": null,
+          "StreetName": null,
+          "ResidenceIndicator": "b same"
+        }
+      }
+    ]
+  }
+]
