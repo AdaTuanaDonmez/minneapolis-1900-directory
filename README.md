@@ -2,7 +2,7 @@
 Structured OCR data from the 1900 Minneapolis City Directory
 # Minneapolis 1900 City Directory – Structured Resident Data
 
-This repository contains structured OCR output from the **Minneapolis 1900 City Directory**, focused on residential entries between pages 30–108. Each record has been cleaned, parsed, and formatted into standardized JSON for archival, analysis, and research use.
+This repository contains structured OCR output from the **Minneapolis 1900 City Directory**, focused on residential entries between pages 104–108. Each record has been cleaned, parsed, and formatted into standardized JSON for archival, analysis, and research use.
 
 ## 📦 File Included
 
@@ -29,7 +29,7 @@ Each record follows this structure:
   "WorkAddress": null,
   "Telephone": null,
   "DirectoryName": "Minneapolis 1900",
-  "PageNumber": 32,
+  "PageNumber": 108,
   "RelatedPersons": []
 }
 
